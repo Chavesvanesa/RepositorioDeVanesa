@@ -1,0 +1,101 @@
+body{
+    background-color: #031042;
+}
+.container{
+    width: 100%;
+}
+.fila2{
+    margin-top: 0;
+    display: flex;
+   
+}
+.fila3{
+    background-color:#4f5053;
+    width: 100%;
+    height: 600px;
+}
+.clase-03{
+    background-color:#0e3cf1;
+    border: none;
+    width: 30%;
+    height: 200px;
+}
+
+.clase-04{
+    background-color:#c806f8;
+    border: none;
+    width: 30%;
+    height: 200px;
+}
+.clase-05{
+    background-color: gray;
+    border: none;
+    width: 40%;
+    height: 200px;
+}
+.clase-11{
+    background-color:white;
+    width: 30%;
+    height: 300px;
+}
+.clase-08{
+    background-color:white;
+    width: 70%;
+    height: 300px;
+    display: flex;
+}
+.textos{
+    margin: 0 auto;   
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    color:#031042;
+    
+    margin-left: 0 auto;
+}
+.clase-09{
+    background-color:#012e36;
+    width: 50%;
+    height: 300px;
+}
+.clase-10{
+    background-color:#012e36;
+    width: 50%;
+    height: 300px;
+}
+.container{
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    padding: 0.5em 1em; 
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+  
+  .footer{
+   display: flex;
+    justify-content:space-evenly;
+    background: none;
+    font-family: 'Philosopher', sans-serif;
+    font-size: 20px;
+    clear: both;
+    color: #031042;
+    text-align: center;
+    padding: none;
+    position: relative;
+    cursor: pointer;
+    margin-top: 2.5em;
+  }
+  .texto{
+    font-size:18px;
+    line-height: none;
+    padding: 0.1em;
+   color:#031042;
+ 
+  } 
+  .header span{
+    color: white;
+    font-size: 30px;
+ 
+}
