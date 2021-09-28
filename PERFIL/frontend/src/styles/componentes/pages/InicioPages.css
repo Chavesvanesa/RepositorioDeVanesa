@@ -1,0 +1,61 @@
+
+.holder0{
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: white;
+}
+.historia, .staff{
+    background-color: white;
+
+}
+.staff {
+    margin-top: 3.em;
+    margin-bottom: 2em;
+}
+.historia p{
+    font-size: 0.8em;
+}    
+.left img{
+    width: 300px;
+    margin-right: 1em;
+}
+
+.personas{
+    overflow: hidden;
+}
+
+.persona{
+    width: 20%;
+    border-radius: 1px solid gray;
+    border-radius: 0.25em;
+    float: left;
+    margin-left: 3%;
+    box-sizing: border-box;
+}
+.persona{
+    text-align: center;
+}
+.persona img{
+border-radius: 50%;
+box-shadow: 0 0 5px skyblue;
+margin: 0.8em 0 1em;
+max-width: 70%;
+}
+.persona h5{
+text-align: center;
+font-weight: normal;
+color: darkslategray;
+margin: 0;
+}
+.persona h5{
+    font-size: 0.9em;
+}
+
+.persona p{
+font-size: 0.7em;
+color: black;
+margin-top: 0 1em 1em;
+}
+.persona:first-child{
+    margin-left: 3em;
+}

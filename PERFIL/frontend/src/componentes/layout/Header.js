@@ -1,13 +1,11 @@
-import React from 'react';
+import '../../styles/componentes/layout/Header.css';
 
-const Header = (props) =>{
-    return(
-        <header>
-        <div class="holder">
-            <img src="img/logo2.png" width="50" alt="LOGO"/>
-          
-        </div>
-    </header>
+const Header = (props) => {
+    return (
+        <Header className="header">
+            <img class="logo" src="images/logo2.png" alt="" />
+
+        </Header>
     );
 }
-export default Header;
+    export default Header;

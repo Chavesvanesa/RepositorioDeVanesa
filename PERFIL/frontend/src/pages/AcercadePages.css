@@ -1,0 +1,19 @@
+/*inicio acercade*/
+.fila2{
+ 
+    display: flex;
+   
+  }
+  .clase-08{
+    background-color:white;
+    width: 70%;
+    height: 300px;
+    display: flex;
+  }
+  .clase-11{
+    background-color:#7e631b;;
+    width: 30%;
+    height: 300px;
+  }
+  
+  /*fin acercade*/

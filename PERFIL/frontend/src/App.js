@@ -1,5 +1,5 @@
 //import logo from './logo.svg';
-//import './App.css';
+import './App.css';
 
 import React from 'react';
 
@@ -8,7 +8,7 @@ import Nav from './componentes/layout/Nav';
 import Footer from './componentes/layout/Footer';
 import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 
-import HomePages from './pages/HomePages';
+import IndexPages from './pages/IndexPages';
 import InicioPages from './pages/InicioPages';
 import ContactoPages from './pages/ContactoPages';
 import AcercadePages from './pages/AcercadePages';
@@ -21,9 +21,9 @@ function App() {
       <Router>
       <Header/>
       <Nav/>
-      
+      <Main/>
       <Switch>
-        <Route path="/" exact componentes={HomePages}/>
+        <Route path="/" exact componentes={IndexPages}/>
         <Route path="/inicio" exact componentes={InicioPages}/>
         <Route path="/contacto" exact componentes={ContactoPages}/>
         <Route path="/acercade" exact componentes={AcercadePages}/>

@@ -1,0 +1,22 @@
+footer{
+    background-color: #a8b1b1;
+    clear: both;
+    color: #012e36;
+    padding: 2em;
+    margin-top: 1em;
+    text-align: center;
+}
+.footer{
+    display: flex;
+     justify-content:space-evenly;
+     background: none;
+     font-family: 'Philosopher', sans-serif;
+     font-size: 20px;
+     clear: both;
+     color: #031042;
+     text-align: center;
+     padding: none;
+     position: relative;
+     cursor: pointer;
+     margin-top: 2.5em;
+} 

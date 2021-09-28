@@ -1,0 +1,18 @@
+.header{
+    background: #012e36;
+    font-family: 'Philosopher', sans-serif;
+    padding: 2em 5em;
+    display: flex;
+    justify-content: space-evenly;
+}
+/*.header h1{
+color:#9a9c9c;
+font-size: 25px;
+font-weight: 500;
+margin-bottom: 5px;
+
+}
+.header span{
+    color: white;
+    font-size: 30px;
+}*/
