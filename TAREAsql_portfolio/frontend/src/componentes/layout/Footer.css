@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    justify-content:space-evenly;
+    background:#c0dfdf;
+    font-family: 'ubuntu';
+    font-size: 1em;
+    padding: 1.5em 5em;
+    clear: both;
+    text-align:center;
+    color:#012e36;
+} 

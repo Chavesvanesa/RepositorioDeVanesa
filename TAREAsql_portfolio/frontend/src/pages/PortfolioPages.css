@@ -1,0 +1,141 @@
+/*inicio portfolio*/
+.fila2{
+    background-color:none;
+    margin-top: 0;
+    display: flex;
+}
+
+.clase-11{
+  
+   background-color:#dbe0e0;
+    width: 45%;
+}
+.clase-06{
+  /*background-color: white;*/
+  width: 55%;
+  border: 0.1 em solid #04b0ce;
+  margin-left: 1.5em;
+}
+.clase-07{
+  /*background-color: white;*/
+  width: 38%;
+  border: 0.1 em solid #04b0ce;
+}
+.clase-08{
+    /*background-color: white;*/
+    width: 55%;
+    border: 0.1 em solid #04b0ce;
+}
+.clase-09{
+  /*  background-color:#c806f8;*/
+    width: 50%;
+}
+.clase-10{
+   /* background-color:#4f5053;*/
+    width: 50%;
+}
+
+  .galeria .foto{
+    background-color:none;
+    float: left;
+   /*margin: 1em 0 1em 1em;*/
+    border: 1px solid white;
+    padding: 0.1em;
+    box-sizing: border-box;
+  }
+  .galeria .foto img{
+    width: 70%;
+    display: block;
+  }
+ /* .galeria .foto:nth-child(5n+1){
+    margin-left: 0;
+  }*/
+  .agrandar{
+    background-color: white;
+      margin: 0 auto;
+      margin-top: 0.5em;
+      margin-bottom: 0.2em;
+      padding: 0.5em;
+      font-size: 15px;
+      color: black;
+      transition: all 0.3s ease;
+  }
+  .agrandar img{
+    width: 80%; 
+   display: inline-flex;
+   flex-direction: row;
+  }
+  .agrandar:hover {
+    transform: scale(2.0);
+  }
+  /*fin portfolio*//*inicio portfolio*/
+.fila2{
+    background-color:none;
+    margin-top: 0;
+    display: flex;
+}
+
+.clase-11{
+  
+   background-color:#dbe0e0;
+    width: 45%;
+}
+.clase-06{
+  /*background-color: white;*/
+  width: 55%;
+  border: 0.1 em solid #04b0ce;
+  margin-left: 1.5em;
+}
+.clase-07{
+  /*background-color: white;*/
+  width: 38%;
+  border: 0.1 em solid #04b0ce;
+}
+.clase-08{
+    /*background-color: white;*/
+    width: 55%;
+    border: 0.1 em solid #04b0ce;
+}
+.clase-09{
+  /*  background-color:#c806f8;*/
+    width: 50%;
+}
+.clase-10{
+   /* background-color:#4f5053;*/
+    width: 50%;
+}
+
+  .galeria .foto{
+    background-color:none;
+    float: left;
+   /*margin: 1em 0 1em 1em;*/
+    border: 1px solid white;
+    padding: 0.1em;
+    box-sizing: border-box;
+  }
+  .galeria .foto img{
+    width: 70%;
+    display: block;
+  }
+ /* .galeria .foto:nth-child(5n+1){
+    margin-left: 0;
+  }*/
+  .agrandar{
+    background-color: white;
+      margin: 0 auto;
+      margin-top: 0.5em;
+      margin-bottom: 0.2em;
+      padding: 0.5em;
+      font-size: 15px;
+      color: black;
+      transition: all 0.3s ease;
+  }
+  .agrandar img{
+    width: 80%; 
+   display: inline-flex;
+   flex-direction: row;
+  }
+  .agrandar:hover {
+    transform: scale(2.0);
+  }
+  /*fin portfolio*/

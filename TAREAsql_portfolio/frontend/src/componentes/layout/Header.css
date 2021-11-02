@@ -1,0 +1,13 @@
+.header{
+    background: #012e36;
+    padding: 1.5em 5em;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo{
+  width: 12em;
+ 
+  margin-left: 1em;
+  margin-top: 0.15em;
+}

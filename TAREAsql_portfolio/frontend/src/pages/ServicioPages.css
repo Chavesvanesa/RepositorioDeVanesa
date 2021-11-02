@@ -1,0 +1,47 @@
+ /*inicio servicios*/
+  
+.personas{
+  overflow: hidden;
+  display: flex;
+}
+
+.persona{
+  width: 90%;
+  border-radius: 1px solid white;
+  border-radius: 0.25em;
+ /* float:none;
+  margin-left: 0%;
+  box-sizing: border-box;*/
+}
+.persona{
+  text-align: center;
+}
+.persona img{
+border-radius: 50%;
+box-shadow: 0 0 5px skyblue;
+margin: 0.8em 0 1em;
+max-width: 80%;
+}
+.persona a{
+font-size: 2em;  
+text-align: center;
+font-weight: normal;
+color: darkslategray;
+margin: 0 auto;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+
+.persona p{
+font-size: 0.7em;
+color: black;
+margin-top: 0 1em 1em;
+}
+.persona:first-child{
+  margin-left: 1em;
+}
+.persona:last-child{
+  margin-right: 1em;
+}
+  /*fin servicios*/
