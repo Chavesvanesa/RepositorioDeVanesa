@@ -201,7 +201,7 @@ padding: 0.1em;
 box-sizing: border-box;
 }
 .galeria .foto img{
-width: 70%;
+width: 50%;
 display: block;
 }
 /* .galeria .foto:nth-child(5n+1){
@@ -218,7 +218,7 @@ background-color: white;
   transition: all 0.3s ease;
 }
 .agrandar img{
-width: 80%; 
+width: 90%; 
 display: inline-flex;
 flex-direction: row;
 }
